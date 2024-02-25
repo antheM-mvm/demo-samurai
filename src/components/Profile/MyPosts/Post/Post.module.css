@@ -1,0 +1,8 @@
+.item {
+  color: greenyellow;
+}
+
+.item svg,
+.item img {
+  width: 150px;
+}
